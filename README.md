@@ -1,4 +1,15 @@
 # Desription create email
+
+### Ссылка на youtube пример:
+  <blockquote>
+    <a href="https://www.youtube.com/watch?v=u-jkI19omLo">https://www.youtube.com/watch?v=u-jkI19omLo</a>
+  </blockquote>
+
+### Ссыка на гит примера:
+  <blockquote>
+     <a href="https://github.com/maxdenaro/maxgraph-youtube-source/blob/master/%D0%92%D0%B5%D1%80%D1%81%D1%82%D0%BA%D0%B0%20HTML-%D0%BF%D0%B8%D1%81%D1%8C%D0%BC%D0%B0%20%D0%B2%202022/index.html">https://github.com/maxdenaro/maxgraph-youtube-source/blob/master/%D0%92%D0%B5%D1%80%D1%81%D1%82%D0%BA%D0%B0%20HTML-%D0%BF%D0%B8%D1%81%D1%8C%D0%BC%D0%B0%20%D0%B2%202022/index.html</a>
+  </blockquote>
+
 ## Требования к верстке писем
   <ol>
     <li>Письмо не должно превышать <b>102КБ</b>;</li>
