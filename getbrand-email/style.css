@@ -1,0 +1,61 @@
+/* COMMON */
+
+* {
+    box-sizing: content-box;
+}
+body {
+    max-width: 600px;
+    margin: 0 auto;
+    background-color: #fff;
+}
+
+
+/* HEADER */
+.header {
+    display: flex;
+    align-content: center;
+    justify-content: space-between;
+    padding: 35px 35px 30px;
+}
+
+
+/* HERO */
+.hero {
+
+}
+
+
+/* MISSION */
+.mission {
+
+}
+
+
+/* FORBES */
+.forbes {
+
+}
+
+
+/* AWARDS */
+.awards {
+
+}
+
+
+/* BOOK */
+.book {
+
+}
+
+
+/* CHANNELS */
+.channels {
+
+}
+
+
+/* ФУТЕР */
+.footer {
+
+}
